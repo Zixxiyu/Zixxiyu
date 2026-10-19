@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Zixxy
-- 👀 I’m interested in ...Blockchain
-- 🌱 I’m currently learning ...The running and coding part of Nodes
-- 💞️ I’m looking to collaborate on ...anything crypto
-- 📫 How to reach me ...X @zixxiyu
-- 😄 Pronouns: ...
+Hi, I’m @Zixxy
+ I’m interested in ...Blockchain
+I’m currently learning ...The running and coding part of Nodes
+I’m looking to collaborate on ...anything crypto
+
+
 - ⚡ Fun fact: ...A doctor told his patient he has some bad news, and some really bad news.
             The patient said, okay doc, what is the bad news.. 
     The doctor told him that he had 24 hours to live. 
-         So the patient said, what then is the really bad news?
+         So the patient said, what news could be worse than that...
    The doctor said that, I couldn't get a hold of you yesterday. 
 
 <!---
